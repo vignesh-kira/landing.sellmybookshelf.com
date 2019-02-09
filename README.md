@@ -1,2 +1,2 @@
-# landing.sellyourbookshelf.com
-Landing Page for SellYourBookShelf.com
+# landing.sellmybookshelf.com
+Landing Page for SellMyBookShelf.com
